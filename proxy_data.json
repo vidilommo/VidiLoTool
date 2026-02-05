@@ -1,0 +1,10 @@
+{
+  "keys": {
+    "proxy_xoay": "hwIyvpryEUojfWlNbTWNdw",
+    "proxies": [
+    {
+      "http": "http://v5-7210-272972:TGUJC@78.46.139.42:23210",
+      "https": "http://v5-7210-272972:TGUJC@78.46.139.42:23210"
+    }]
+  }
+}
