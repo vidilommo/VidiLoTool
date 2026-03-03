@@ -1,10 +1,10 @@
 {
-  "tag_name": "1.0.0",
-  "published_at": "2026-02-11T14:30:00Z",
+  "tag_name": "1.0.1",
+  "published_at": "2026-03-03T14:30:00Z",
   "assets": [
     {
-      "name": "vidilo_v1.0.0_Windows_x64",
-      "download_url": "https://u.pcloud.link/publink/show?code=XZlzHl5Z3xBgt4RVtdHoBtDVqnvMqHlbaGD7",
+      "name": "vidilo_v1.0.1_Windows_x64",
+      "download_url": "https://u.pcloud.link/publink/show?code=XZ0JCd5ZW8DysK8jQ3J2fQTSyLMOdVRRQSS7",
       "size": 658628800
     }
   ],
