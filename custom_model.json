@@ -1,4 +1,6 @@
 {
     "gemini_free_model": "gemini-2.5-flash",
-    "deepseek_free_model": "deepseek-v3"
+    "deepseek_free_model": "deepseek-v3",
+    "api_keys_gemini_free": [
+    ]
 }
