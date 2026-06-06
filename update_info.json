@@ -1,9 +1,9 @@
 {
-  "tag_name": "1.0.2",
-  "published_at": "2026-03-09T14:30:00Z",
+  "tag_name": "1.0.3",
+  "published_at": "2026-06-06T14:30:00Z",
   "assets": [
     {
-      "name": "vidilo_v1.0.2_Windows_x64",
+      "name": "vidilo_v1.0.3_Windows_x64",
       "download_url": "https://u.pcloud.link/publink/show?code=XZSkXq5ZFjVpfY2DniLxO1NU8GG7Y4KWyoVV",
       "size": 658628800
     }
